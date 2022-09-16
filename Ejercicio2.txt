@@ -1,3 +1,5 @@
 Archivo de prueba 2
 
 Cambio realizado
+
+Se agrega nueva línea para prueba de trabajo colaborativo
