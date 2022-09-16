@@ -1,1 +1,5 @@
 Inicio de GIT Repaso
+
+
+
+agrego una especie de footer a este archivo en la rama footer de el proyecto InicioGit
