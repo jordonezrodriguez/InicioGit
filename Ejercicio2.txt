@@ -1,3 +1,6 @@
 Archivo de prueba 2
 
 Cambio realizado
+
+
+agrego una especie de footer a este archivo en la rama footer de el proyecto InicioGit
