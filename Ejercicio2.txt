@@ -1,6 +1,9 @@
 Archivo de prueba 2
 
+Comentario posterior a la revisión de la rama header para pull request 
+
 Cambio realizado
 
+Se agrega nueva línea para prueba de trabajo colaborativo
 
 agrego una especie de footer a este archivo en la rama footer de el proyecto InicioGit
