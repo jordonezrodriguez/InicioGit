@@ -1,1 +1,9 @@
 Inicio de GIT Repaso
+
+comentario adicional para resolver solicitud de revisión a master.
+
+
+agrego una especie de footer a este archivo en la rama footer de el proyecto InicioGit
+
+
+Archivo modificado por Patiño.
