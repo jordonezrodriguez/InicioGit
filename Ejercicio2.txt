@@ -1,6 +1,6 @@
 Archivo de prueba 2
 
-Comentario posterior a la revisión de la rama header
+Comentario posterior a la revisión de la rama header para pull request 
 
 Cambio realizado
 
