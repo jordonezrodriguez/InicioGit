@@ -7,3 +7,6 @@ Cambio realizado
 Se agrega nueva línea para prueba de trabajo colaborativo
 
 agrego una especie de footer a este archivo en la rama footer de el proyecto InicioGit
+
+
+Esta linea contiene es un texto agregado desde el  fork del proyecto, hecho por patino
